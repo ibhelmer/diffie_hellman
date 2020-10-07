@@ -4,7 +4,8 @@
 
 def main():
     # Public know Variables
-    n = 239069244642311244324580962333607220041 # large shared prime number, use PrimGen.py fot making prime number
+    n = 239069244642311244324580962333607220041 # large shared prime number, use PrimGen.py or https://asecuritysite.com/encryption/random3
+                                                # for making prime number
     g = 17                                      # small shared prime number also called generator
 
     ibsPriKey = 7913   # only known by Ib
